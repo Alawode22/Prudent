@@ -1,0 +1,1 @@
+This project is a Finance tracker app which is aimed at helping clients manage their finances. It tracks their income and expenditure overview using the data provided and gives them a regular report based on their preferences and alerts based on their spending goals
